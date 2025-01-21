@@ -1,11 +1,10 @@
 ## Hi there 👋
 
+🔭 I’m currently a mentor at FRC Team CyBears 4682 @ Bishop Blanchet || Seattle, WA
+🌱 I’m currently learning how to synthesize music
+📫 Reach me via email > ab18gu@gmail.com
+
 <!--
-**ab12gu/ab12gu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
