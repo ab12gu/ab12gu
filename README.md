@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🔭 I’m currently a mentor at FRC Team CyBears 4682 @ Bishop Blanchet || Seattle, WA
-🌱 I’m currently learning how to synthesize music
-📫 Reach me via email > ab18gu@gmail.com
+- 🔭 I’m currently a mentor at FRC Team CyBears 4682 @ Bishop Blanchet || Seattle, WA
+- 🌱 I’m currently learning how to synthesize music
+- 📫 Reach me via email > ab18gu@gmail.com
 
 <!--
 - 🌱 I’m currently learning ...
