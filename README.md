@@ -17,9 +17,6 @@
 
 ### Repository Containers
 - FIRST Robotics - [Team 4682, Cybears](https://github.com/Team4682CyBears)
-- Data Science - [Projects](https://github.com/data-science-lessons)
-- [@AnotherOrg](https://github.com/AnotherOrg)
-
 
 
 
