@@ -95,7 +95,9 @@
 
 #### Hackathons
 
-ai_therapy_bot 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ai_therapy_bot&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ai_therapy_bot)
+
+
 
 
 
