@@ -15,7 +15,7 @@
 
 ---
 
-### Porfolio
+#### Porfolio
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=default&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
@@ -23,16 +23,79 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-test-proj&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-test-proj&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-test-proj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-resume&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-resume)
 
-### FIRST Robotics
+#### Lists
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=CAD-software&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/CAD-software)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=podcasts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/podcasts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=reading&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/reading)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=crafts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/crafts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=freewheels&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/freewheels)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=awesome-robotics-libraries&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/awesome-robotics-libraries)
+
+#### FIRST Robotics
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/Team4682CyBears)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scout-blue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=FRC-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/FRC-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=frc-game-manuals&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/frc-game-manuals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=frc-docs&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/frc-docs)
 
-### Notes
+#### Hardware Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=hula-hoop&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/hula-hoop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bicycle-projects&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bicycle-projects)
+
+#### Software Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bingo-generator&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bingo-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=chrysanthemum&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/chrysanthemum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=marqo-demo&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/marqo-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=apple-shortcuts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/apple-shortcuts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=paint-comparision&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/paint-comparision)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=tictactoe&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/tictactoe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=cordova-plugin-bluetoothle&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/cordova-plugin-bluetoothle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=optical-tweezers&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/optical-tweezers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=move-images-script&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/move-images-script)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=actuator-dynamics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/actuator-dynamics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=data-automation-SVBC&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/data-automation-SVBC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=biomembrane-rupture&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/biomembrane-rupture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ROS-path-turtlebot&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ROS-path-turtlebot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=uprite-theranova&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/uprite-theranova)
+
+#### Settings Files
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=env-variables&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/env-variables)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=dotfiles&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=sys-install&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/sys-install)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=package-install-script&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/package-install-script)
+
+#### Learning && Testing
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=coding-challenges&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/coding-challenges)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=nikko-hw7-web-rendering&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/nikko-hw7-web-rendering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=hacking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/hacking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=CRISPR-course&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/CRISPR-course)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=least-squares-linear-regression&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/least-squares-linear-regression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=word-number-conversion&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/word-number-conversion)
+ 
+
+#### Notes
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=electronics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/electronics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=networking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/networking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=recipes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/recipes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=audio&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/audio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=lockpicking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/lockpicking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=strength-training&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/strength-training)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bicycle-dynamics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bicycle-dynamics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=local-activities&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/local-activities)
+
+#### Hackathons
+
+ai_therapy_bot 
 
 
 
