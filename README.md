@@ -21,18 +21,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=default&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/ab12gu/personal-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-test-proj&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/ab12gu/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-test-proj&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
 
 ### FIRST Robotics
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/Team4682CyBears)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/ab12gu/scout-blue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/Team4682CyBears)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scout-blue)
 
 ### Notes
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=electronics&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/ab12gu/electronics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=electronics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/electronics)
 
 
 
