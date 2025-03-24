@@ -16,7 +16,16 @@
 ---
 
 ### Repository Containers
-- FIRST Robotics - [Team 4682, Cybears](https://github.com/Team4682CyBears)
+- Porfolio
+  - [this readme page](https://github.com/ab12gu/ab12gu) - page to setup this page
+  - [mkdocs test project](https://github.com/ab12gu/mkdocs-test-proj) - used to test blog generator
+  - 
+- FIRST Robotics
+  - [Team 4682, Cybears](https://github.com/Team4682CyBears) - FRC high school team that I mentor
+  - [scout blue](https://github.com/ab12gu/scout-blue) - FRC scouting website
+- Notes
+  - [electronics](https://github.com/ab12gu/electronics)
+  - 
 
 
 
