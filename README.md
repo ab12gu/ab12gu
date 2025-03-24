@@ -16,15 +16,22 @@
 ---
 
 ### Repository Containers
-- Porfolio
-  - [this readme page](https://github.com/ab12gu/ab12gu) - page to setup this page
-  - [mkdocs test project](https://github.com/ab12gu/mkdocs-test-proj) - used to test blog generator
-  - 
+
+Porfolio
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=default&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
+-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight)](https://github.com/ab12gu/ab12gu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight)](https://github.com/ab12gu/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-test-proj&theme=tokyonight)](https://github.com/ab12gu/personal-website)
+
+
 - FIRST Robotics
-  - [Team 4682, Cybears](https://github.com/Team4682CyBears) - FRC high school team that I mentor
-  - [scout blue](https://github.com/ab12gu/scout-blue) - FRC scouting website
+  - [Team4682CyBears/](https://github.com/Team4682CyBears) - FRC high school team that I mentor
+  - [scout-blue/](https://github.com/ab12gu/scout-blue) - FRC scouting website
 - Notes
-  - [electronics](https://github.com/ab12gu/electronics)
+  - [electronics/](https://github.com/ab12gu/electronics)
   - 
 
 
