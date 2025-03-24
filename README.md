@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning how to synthesize :notes: music :notes:
 
-📫 Reach me via email ||--> ab18gu@gmail.com
+📫 Reach me via email ---> ab18gu@gmail.com
 
 [abgup.com](https://www.abgup.com)
 
