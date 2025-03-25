@@ -15,7 +15,22 @@
 
 ---
 
-#### Porfolio
+## Table of Contents
+1. [Portfolio](#portfolio)
+2. [Lists](#lists)
+3. [FIRST Robotics](#first-robotics)
+4. [Hardware Projects](#hardware-projects)
+5. [Software Projects](#software-projects)
+6. [Settings Files](#settings-files)
+7. [Learning and Testing](#learning-and-testing)
+8. [Notes](#notes)
+9. [Hackathons](#hackathons)
+
+---
+
+## Catagorized Repositories 
+
+#### Portfolio
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=default&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
@@ -72,7 +87,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=sys-install&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/sys-install)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=package-install-script&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/package-install-script)
 
-#### Learning && Testing
+#### Learning and Testing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=coding-challenges&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/coding-challenges)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=nikko-hw7-web-rendering&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/nikko-hw7-web-rendering)
