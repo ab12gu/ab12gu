@@ -38,7 +38,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-test-proj&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-test-proj)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-resume&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-resume)
 
 #### Lists
