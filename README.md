@@ -52,6 +52,8 @@
 
 #### FIRST Robotics
 
+[blue_scout](https://github.com/Team4682CyBears/blue_scout) - internal scouting website for Team4682, CyBears [private repo]
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/Team4682CyBears)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scout-blue)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=FRC-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/FRC-notes)
@@ -101,6 +103,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=electronics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/electronics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=networking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/networking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=software-tools&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/software-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=recipes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/recipes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=audio&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/audio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=lockpicking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/lockpicking)
