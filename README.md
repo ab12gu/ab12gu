@@ -52,7 +52,8 @@
 
 #### FIRST Robotics
 
-[blue_scout](https://github.com/Team4682CyBears/blue_scout) - internal scouting website for Team4682, CyBears [private repo]
+1. [blue_scout](https://github.com/Team4682CyBears/blue_scout) - internal scouting website for Team4682, CyBears [private repo]
+2. 2025 Season Software [Webpage Summary](https://github.com/Team4682CyBears/Reefscape2025/wiki/Tardigrade-Controls,-Sensors,-and-Computer-Vision-2025)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/Team4682CyBears)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scout-blue)
