@@ -48,12 +48,12 @@
 
 #### Software Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=paint-comparision&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/paint-comparision)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geluso&repo=206bikepolo.com&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/geluso/206bikepolo.com)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bingo-generator&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bingo-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=chrysanthemum&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/chrysanthemum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=marqo-demo&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/marqo-demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=apple-shortcuts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/apple-shortcuts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=paint-comparision&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/paint-comparision)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=tictactoe&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/tictactoe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=cordova-plugin-bluetoothle&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/cordova-plugin-bluetoothle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=optical-tweezers&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/optical-tweezers)
