@@ -58,11 +58,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=cordova-plugin-bluetoothle&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/cordova-plugin-bluetoothle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=optical-tweezers&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/optical-tweezers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=move-images-script&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/move-images-script)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ROS-path-turtlebot&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ROS-path-turtlebot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=uprite-theranova&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/uprite-theranova)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=actuator-dynamics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/actuator-dynamics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=data-automation-SVBC&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/data-automation-SVBC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=biomembrane-rupture&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/biomembrane-rupture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ROS-path-turtlebot&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ROS-path-turtlebot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=uprite-theranova&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/uprite-theranova)
 
 #### FIRST Robotics
 
