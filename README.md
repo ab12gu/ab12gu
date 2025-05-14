@@ -26,6 +26,7 @@ Portfolio
 
 <details>
 <summary>Lists</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=CAD-software&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/CAD-software)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=podcasts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/podcasts)
@@ -33,11 +34,11 @@ Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=crafts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/crafts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=freewheels&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/freewheels)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=awesome-robotics-libraries&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/awesome-robotics-libraries)
-
 </details>
 
 <details>
 <summary>First Robotics</summary>
+<br>
 
 1. [blue_scout](https://github.com/Team4682CyBears/blue_scout) - internal scouting website for Team4682, CyBears [private repo]
 2. 2025 Season Software [Webpage Summary](https://github.com/Team4682CyBears/Reefscape2025/wiki/Tardigrade-Controls,-Sensors,-and-Computer-Vision-2025)
@@ -53,6 +54,7 @@ Portfolio
 
 <details>
 <summary>Hardware Projects</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=hula-hoop&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/hula-hoop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bicycle-projects&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bicycle-projects)
@@ -61,6 +63,7 @@ Portfolio
 
 <details>
 <summary>Software Projects</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=paint-comparision&theme=tokyonight&hide_border=false&bg_color=00000000&&cache_bust=1)](https://github.com/ab12gu/paint-comparision)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geluso&repo=206bikepolo.com&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/geluso/206bikepolo.com)
@@ -83,6 +86,7 @@ Portfolio
 
 <details>
 <summary>Settings Files</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=env-variables&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/env-variables)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=dotfiles&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/dotfiles)
@@ -93,6 +97,7 @@ Portfolio
 
 <details>
 <summary>[Learning and Testing](#learning-and-testing)</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=coding-challenges&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/coding-challenges)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=nikko-hw7-web-rendering&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/nikko-hw7-web-rendering)
@@ -105,6 +110,7 @@ Portfolio
 
 <details>
 <summary>Notes</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=electronics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/electronics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=networking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/networking)
@@ -119,6 +125,7 @@ Portfolio
 
 <details>
 <summary>Hackathons</summary>
+<br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ai_therapy_bot&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ai_therapy_bot)
 
