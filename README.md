@@ -100,7 +100,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=software-tools&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/software-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=recipes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/recipes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=audio&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/audio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=lockpicking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/lockpicking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=strength-training&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/strength-training)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bicycle-dynamics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bicycle-dynamics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=local-activities&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/local-activities)
