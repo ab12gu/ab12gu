@@ -96,7 +96,7 @@ Portfolio
 </details>
 
 <details>
-<summary>[Learning and Testing](#learning-and-testing)</summary>
+<summary>Learning and Testing</summary>
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=coding-challenges&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/coding-challenges)
