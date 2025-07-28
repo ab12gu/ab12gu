@@ -28,11 +28,6 @@ Portfolio
 <summary>Lists</summary>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=CAD-software&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/CAD-software)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=podcasts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/podcasts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=reading&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/reading)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=crafts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/crafts)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=freewheels&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/freewheels)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=awesome-robotics-libraries&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/awesome-robotics-libraries)
 </details>
 
