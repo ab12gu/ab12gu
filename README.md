@@ -19,7 +19,7 @@
 
 Portfolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=gamenight&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/gamenight)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-notes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-resume&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-resume)
@@ -41,8 +41,6 @@ Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=leptos-test&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/leptos-test)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/Team4682CyBears)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scout-blue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=FRC-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/FRC-notes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=frc-game-manuals&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/frc-game-manuals)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=frc-docs&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/frc-docs)
 
 </details>
@@ -51,7 +49,6 @@ Portfolio
 <summary>Hardware Projects</summary>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=hula-hoop&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/hula-hoop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bicycle-projects&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bicycle-projects)
 
 </details>
@@ -60,16 +57,15 @@ Portfolio
 <summary>Software Projects</summary>
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ab12gu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=paint-comparision&theme=tokyonight&hide_border=false&bg_color=00000000&&cache_bust=1)](https://github.com/ab12gu/paint-comparision)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geluso&repo=206bikepolo.com&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/geluso/206bikepolo.com)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bingo-generator&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bingo-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=chrysanthemum&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/chrysanthemum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=marqo-demo&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/marqo-demo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=apple-shortcuts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/apple-shortcuts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=tictactoe&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/tictactoe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=cordova-plugin-bluetoothle&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/cordova-plugin-bluetoothle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=optical-tweezers&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/optical-tweezers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=move-images-script&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/move-images-script)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ROS-path-turtlebot&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ROS-path-turtlebot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=uprite-theranova&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/uprite-theranova)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=actuator-dynamics&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/actuator-dynamics)
@@ -86,7 +82,6 @@ Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=env-variables&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/env-variables)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=dotfiles&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=sys-install&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/sys-install)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=package-install-script&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/package-install-script)
 
 </details>
 
@@ -96,10 +91,7 @@ Portfolio
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=coding-challenges&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/coding-challenges)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=nikko-hw7-web-rendering&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/nikko-hw7-web-rendering)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=hacking&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/hacking)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=CRISPR-course&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/CRISPR-course)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=least-squares-linear-regression&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/least-squares-linear-regression)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=word-number-conversion&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/word-number-conversion)
 
 </details>
 
