@@ -72,6 +72,7 @@ Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=data-automation-SVBC&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/data-automation-SVBC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=biomembrane-rupture&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/biomembrane-rupture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=gamenight&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/gamenight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=slack-bots&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/slack-bots)
 
 </details>
 
