@@ -19,10 +19,10 @@
 
 Portfolio
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=gamenight&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/gamenight)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-notes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-resume&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-resume)
+[![Gamenight](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=gamenight&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/gamenight)
+[![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
+[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-notes)
+[![Personal Resume](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-resume&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-resume)
 
 <details>
 <summary>Lists</summary>
