@@ -21,7 +21,7 @@ Portfolio
 
 [![Gamenight](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=gamenight&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/gamenight)
 [![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-website&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-website)
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/mkdocs-notes)
+[![Technical Notes](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=mkdocs-notes&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/notes-webpage)
 [![Personal Resume](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=personal-resume&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/personal-resume)
 
 <details>
