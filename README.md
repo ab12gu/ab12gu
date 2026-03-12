@@ -40,7 +40,7 @@ Portfolio
 
 [![Rust, Leptos-test](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=leptos-test&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/leptos-test) <br>
 [![Team4682CyBears, FRC](https://github-readme-stats.vercel.app/api/pin/?username=Team4682CyBears&repo=Reefscape2025&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/Team4682CyBears) <br>
-[![Scout Blue, Scouting for FRC](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scout-blue&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scout-blue) <br>
+[![Scout Blue, Scouting for FRC](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=scoutingfrc&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/scoutingfrc) <br>
 [![FRC Docs](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=frc-docs&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/frc-docs)
 
 </details>
