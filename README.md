@@ -49,7 +49,9 @@ Portfolio
 <summary>Hardware Projects</summary>
 <br>
 
-[![Bicycle Projects](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bicycle-projects&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bicycle-projects)
+Might mostly be on [notes.abgup.com/manufacturing](https://notes.abgup.com/manufacturing) and [notes.abgup.com/design/3d-modeling/projects](https://notes.abgup.com/design/3d-modeling/projects) <br>
+
+[![CAD Scripts](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=cad-scripts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/cad-scripts) <br>
 
 </details>
 
@@ -58,6 +60,7 @@ Portfolio
 <br>
 
 [![ab12gu, github homepage](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=ab12gu&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/ab12gu) <br>
+[![CAD Scripts](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=cad-scripts&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/cad-scripts) <br>
 [![Paint Comoparision](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=paint-comparision&theme=tokyonight&hide_border=false&bg_color=00000000&&cache_bust=1)](https://github.com/ab12gu/paint-comparision) <br>
 [![206bikepolo.com](https://github-readme-stats.vercel.app/api/pin/?username=geluso&repo=206bikepolo.com&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/geluso/206bikepolo.com) <br>
 [![Bingo Generator (Pi Day)](https://github-readme-stats.vercel.app/api/pin/?username=ab12gu&repo=bingo-generator&theme=tokyonight&hide_border=false&bg_color=00000000)](https://github.com/ab12gu/bingo-generator) <br>
